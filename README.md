@@ -1,7 +1,4 @@
 # Tenzies-using-React
 
-
-
-![Screenshot (129)](https://github.com/Sujitswain/Tenzies-using-React/assets/90376564/a77d3c85-7e14-445b-b975-76769289a801)
-![Screenshot (130)](https://github.com/Sujitswain/Tenzies-using-React/assets/90376564/5cbd0301-c886-4d6d-9848-c081869b25b0)
-![Screenshot (131)](https://github.com/Sujitswain/Tenzies-using-React/assets/90376564/c339646c-15ea-4aa6-a813-43118854a401)
+![Screenshot (135)](https://github.com/Sujitswain/Tenzies-using-React/assets/90376564/77fc564d-0b3b-4f26-8e47-719f30535531)
+![Screenshot (136)](https://github.com/Sujitswain/Tenzies-using-React/assets/90376564/5b42e44e-6071-4d00-b208-33adfc120677)
